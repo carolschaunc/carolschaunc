@@ -1,4 +1,4 @@
-# Olá, eu sou Carolina Chaves 👋
+# Olá, eu sou Carolina Chaves 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focada em Desenvolvimento Front-end e Python  
